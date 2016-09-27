@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
@@ -17,10 +21,8 @@
 
     <section class="main-content">
       <h4>
-<a id="welcome-to-my-text-pages" class="anchor" href="#welcome-to-my-text-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>This section presents **writings without codes** for self review and anyone who is interested in my thought. My past Chinese wrirings, before 2016, are tranfered to markdown file and releaed here. Since 2016, all my writings, English and Chinese, are going to be written in markdown format. You will see the source of every article in the [github repo](https://github.com/SCgeeker/SCgeeker.github.io/tree/blog/Text).  
+<a id="welcome-to-my-text-pages" class="anchor" href="#welcome-to-my-text-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>This section presents <b>writings without codes</b> for self review and anyone who is interested in my thought. My past Chinese wrirings, before 2016, are tranfered to markdown file and releaed here. Since 2016, all my writings, English and Chinese, are going to be written in markdown format. You will see the source of every article in the <a href="https://github.com/SCgeeker/SCgeeker.github.io/tree/blog/Text">github repo</a>.  
 </h4>
-
-
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/SCgeeker/text">Text</a> is maintained by <a href="https://github.com/SCgeeker">SCgeeker</a>.</span>
