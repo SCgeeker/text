@@ -1,0 +1,5 @@
+markdown: kramdown
+permalink: /:title/
+url: http://scchen.com/text
+author: 陳紹慶
+highlighter: rouge
